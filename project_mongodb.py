@@ -2,7 +2,7 @@
 #CSCI 493.71
 #April 5, 2020
 from pymongo import MongoClient
-client = MongoClient("mongodb+srv://nelson:1122334455@project1-6eqsx.mongodb.net/test?retryWrites=true&w=majority")
+client = MongoClient()
 db = client.hetio
 
 #Assumes that the user is only entering one disease with multiple relationships to different genes
