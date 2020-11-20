@@ -1,5 +1,6 @@
 # Hetionet
 Author: Nelson Lim, Jeffrey Chen
+
 CSCI 493.71
 
 Hetionet is an integrative network of biomedical knowledge assembled from 29 different databases of genes, compounds, diseases, and more. This implementation focuses on the gene, disease,anatomy, and compound relationships. From a disease id, this implementation is able to return the specific genes the disease targets and the specific anatomy the disease affects. Also, from the disease id it can return a specific compound that can treat that disease. 
