@@ -7,7 +7,7 @@ Hetionet is an integrative network of biomedical knowledge assembled from 29 dif
 
 PROBLEM 1:
 
-To run the first query first the data to be loaded must be in the same directory as the python programs. Createkeyspace.py should be run first to then createtables.py, then the loaddata.cql script through the cqlsh shell. From there the diseasequery.py can be run to query the Cassandra Database.
+To run the first query, the data to be loaded must be in the same directory as the python programs. Createkeyspace.py should be run first to then createtables.py, then the loaddata.cql script through the cqlsh shell. From there the diseasequery.py can be run to query the Cassandra Database.
 
 PROBLEM 2:
 
